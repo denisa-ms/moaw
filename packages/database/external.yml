@@ -372,3 +372,17 @@
   level: intermediate
   tags: chatgpt, openai, langchain, retrieval-augmented-generation, azure, containers, docker, static web apps, javascript, typescript, node.js, azure cognitive search, fastify, azure container apps
   
+- title: Building an Analytics Platform with Azure Data Explorer
+  url: https://aka.ms/ws?src=gh:denisa-ms/adx-analytics/main/docs/
+  language: en
+  last_updated: 2023-01-23
+  type: workshop
+  description: In this technical workshop, you will build a complete Analytics Platform. 
+  authors:
+    - Denise Schlesinger
+  contacts:
+    - 'https://github.com/denisa-ms'
+  duration_minutes: 120
+  audience: devs
+  level: advanced
+  tags: azure, data, analytics, Kusto, bicep, Azure data Explorer, ADX
