@@ -371,4 +371,20 @@
   audience: students, devs
   level: intermediate
   tags: chatgpt, openai, langchain, retrieval-augmented-generation, azure, containers, docker, static web apps, javascript, typescript, node.js, azure cognitive search, fastify, azure container apps
+
+  - title: Build a Fabric Analytics platform in less than 1 hour - Workshop
+  description: In this technical workshop, you will learn how to build an analytics platform in Microsoft Fabric. 
+  url: https://aka.ms/ws?src=gh:denisa-ms/adx-analytics-fabric/main/docs/              
+  language: en                          
+  last_updated: 2023-07-06                
+  type: workshop                       
+  level: advanced                         
+  github_url: https://github.com/microsoft/MDCC/    
+  authors:                   
+    - Denise Schlesinnger
+  contacts:                               
+    - https://github.com/denisa-ms
+  duration_minutes: 60                
+  audience: students, pro devs         
+  tags: Data, Analytics, Fabric, Kusto
   
